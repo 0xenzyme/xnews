@@ -6,7 +6,7 @@ SRC=/workspace/News; REPO=/workspace/news-site
 cd "$REPO"
 # Local identity for commits on this box (repo-scoped, not global)
 git config user.name "0xenzyme"
-git config user.email "enzyme@users.noreply.github.com"
+git config user.email "11206822+0xenzyme@users.noreply.github.com"
 git pull -q --rebase origin main
 for c in Daily Chinese-Topics English-Topics; do
   mkdir -p "$SRC/$c" "docs/$c"
