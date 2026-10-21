@@ -1,0 +1,75 @@
+site_name: 船长 · X AI 新闻
+site_url: https://0xenzyme.github.io/xnews/
+site_description: 给动手做东西的人的高信噪比 AI 情报：日报 + 中英文选题简报
+theme:
+  name: material
+  language: zh
+  font: false
+  custom_dir: overrides
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: 深色模式 / Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: 浅色模式 / Light mode
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+plugins:
+  - search:
+      lang: [zh, en]
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: zh
+          name: 中文
+          default: true
+          build: true
+        - locale: en
+          name: English
+          build: true
+          site_name: Captain · X AI News
+          site_description: high-signal AI intel from X for builders; daily digest + CN/EN topic briefs
+          nav_translations:
+            首页: Home
+            中文选题: Chinese Topics
+            英文选题: English Topics
+            X AI 日报: X AI Daily
+hooks:
+  - hooks/autonav.py
+  - hooks/presentation.py
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/enzyme_dev
+      name: X
+extra_javascript:
+  - javascripts/header-links.js
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.magiclink:
+      hide_protocol: false
+      repo_url_shortener: false
