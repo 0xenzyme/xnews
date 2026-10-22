@@ -1,10 +1,10 @@
 ---
-title: 英文选题
+title: 英文热点
 description: 追踪英文 X 上的 AI 热点，把讨论整理成可操作的选题与来源。
 ---
 
 <p class="fk-eyebrow">栏目</p>
-# 英文选题
+# 英文热点
 <p class="fk-section__intro">追踪英文 X 上的 AI 热点，把讨论整理成可操作的选题与来源。</p>
 <p class="fk-section-line">共 1 期 · 最近更新 2026-10-21</p>
 <div class="fk-ledger">

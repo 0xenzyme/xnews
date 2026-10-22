@@ -1,10 +1,10 @@
 ---
-title: 中文选题
+title: 中文热点
 description: 从中文 X 圈层里挑出值得写的话题：热度、可写角度与核验状态，给动手做东西的人。
 ---
 
 <p class="fk-eyebrow">栏目</p>
-# 中文选题
+# 中文热点
 <p class="fk-section__intro">从中文 X 圈层里挑出值得写的话题：热度、可写角度与核验状态，给动手做东西的人。</p>
 <p class="fk-section-line">共 1 期 · 最近更新 2026-10-21</p>
 <div class="fk-ledger">

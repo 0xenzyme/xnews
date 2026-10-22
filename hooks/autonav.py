@@ -18,18 +18,18 @@ import yaml
 CATS = [
     {
         "folder": "Chinese-Topics",
-        "zh": "中文选题",
+        "zh": "中文热点",
         "en": "Chinese Topics",
-        "badge_zh": "中文选题",
+        "badge_zh": "中文热点",
         "badge_en": "Chinese",
         "desc_zh": "从中文 X 圈层里挑出值得写的话题：热度、可写角度与核验状态，给动手做东西的人。",
         "desc_en": "Story ideas worth pursuing from Chinese-language X, with traction, angles and verification notes for builders.",
     },
     {
         "folder": "English-Topics",
-        "zh": "英文选题",
+        "zh": "英文热点",
         "en": "English Topics",
-        "badge_zh": "英文选题",
+        "badge_zh": "英文热点",
         "badge_en": "English",
         "desc_zh": "追踪英文 X 上的 AI 热点，把讨论整理成可操作的选题与来源。",
         "desc_en": "AI conversations trending in English on X, turned into actionable briefs with sources for builders.",
