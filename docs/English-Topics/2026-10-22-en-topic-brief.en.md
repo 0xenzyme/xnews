@@ -13,7 +13,7 @@ coverage: partial
 
 Picks for English posts/newsletters: prefer official sources, checkable engagement, engineering decisions.
 
-## Today's Priority Reads
+## Today's must-reads
 
 1. **Claude Duet × OpenShell — same-day “responsibility layer”** (see items 1–2). Pair product confirmations with hardware isolation. Angle: app-level confirm / runtime quarantine / cloud policy table.
 
@@ -21,7 +21,7 @@ Picks for English posts/newsletters: prefer official sources, checkable engageme
 
 3. **OpenAI on GCP — procurement picks the coding agent** (see item 5). Less “another cloud,” more commits, IAM, quotas.
 
-## Candidates
+## More topics
 
 ### 1. Claude Duet: proactive agent preview
 

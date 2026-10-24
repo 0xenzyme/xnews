@@ -13,7 +13,7 @@ coverage: partial
 
 给写英文帖/newsletter 的选题：优先有官方源、互动可核、对工程决策有用。
 
-## 今日优先看
+## 今日必读
 
 1. **EAGLE-4 与「智力饱和」同一周出现**（见第 1、2 条）。英文圈适合写成配对稿：一边是 Cognition/The Information 的成本叙事，一边是 Eagle 的 tok/s 实测宣传。角度：给一张「什么任务该追求 frontier、什么任务该追求吞吐」决策表。
 
@@ -21,7 +21,7 @@ coverage: partial
 
 3. **Ampersand：长期协作评测该怎么写**（见第 4 条）。别复读「good model」——追问多月模拟协议能否复现、Agents API 的 pass/沉默行为如何测。
 
-## 候选话题
+## 更多话题
 
 ### 1. EAGLE-4：生产 batch 下的 speculative decoding
 

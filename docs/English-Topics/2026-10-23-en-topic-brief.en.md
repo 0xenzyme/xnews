@@ -13,7 +13,7 @@ coverage: partial
 
 Picks for EN posts/newsletters: prefer official sources, checkable engagement, useful for engineering decisions.
 
-## Today's Priority Reads
+## Today's must-reads
 
 1. **Agent Skills foundation donation × Auto Mode default** (see items 1–2). Same-day “open standard + default permissions” pair — interoperability vs mis-action surface.
 
@@ -21,7 +21,7 @@ Picks for EN posts/newsletters: prefer official sources, checkable engagement, u
 
 3. **Claude Security continuous scan × formal-verification blog** (see items 5–6). Safety agents from “find vulns” toward “prove properties.”
 
-## Candidates
+## More topics
 
 ### 1. Agent Skills → Agentic AI Foundation
 

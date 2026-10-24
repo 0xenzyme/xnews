@@ -13,7 +13,7 @@ coverage: partial
 
 给中文作者的选题单：优先可写、可核验、对 builder 有动作空间。热度取自可见原帖 metrics。
 
-## 今日优先看
+## 今日必读
 
 1. **Arena 匿名模 Kibitz / Kalmia（疑似 Kimi K3.1 / Qwen 4）**（见第 1 条）。热、快、核验弱——写成「指纹核验方法论」：tokenizer、命名序列、SGLang 痕迹 vs 官宣。形式：核查清单。状态：可起草；必须标 unverified。
 
@@ -21,7 +21,7 @@ coverage: partial
 
 3. **Agent Skills 捐赠 AAIF**（见第 3 条）。英文官方源强，中文缺深度拆解——适合讲「MCP 之后第二个标准」对 Cursor/Copilot/自建 agent 的互操作。形式：标准解读。状态：可起草；官方 verified。
 
-## 候选话题
+## 更多话题
 
 ### 1. Arena 暗测：Kibitz ≈ Kimi？Kalmia ≈ Qwen 4？
 

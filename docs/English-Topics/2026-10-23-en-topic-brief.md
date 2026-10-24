@@ -13,7 +13,7 @@ coverage: partial
 
 给写英文帖/newsletter 的选题：优先有官方源、互动可核、对工程决策有用。
 
-## 今日优先看
+## 今日必读
 
 1. **Agent Skills 捐基金会 × Auto Mode 默认**（见第 1、2 条）。同天「开放标准 + 默认权限」双叙事——适合配对稿：互操作如何降低锁定，默认 auto 如何抬高误操作面。
 
@@ -21,7 +21,7 @@ coverage: partial
 
 3. **Claude Security 持续复扫 × 形式化验证博客**（见第 5、6 条）。从「找洞」到「证明属性」的安全 Agent 产品线。
 
-## 候选话题
+## 更多话题
 
 ### 1. Agent Skills → Agentic AI Foundation
 

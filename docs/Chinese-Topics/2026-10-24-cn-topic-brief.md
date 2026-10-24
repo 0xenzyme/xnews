@@ -13,7 +13,7 @@ coverage: partial
 
 给中文作者的选题单：优先可写、可核验、对 builder 有动作空间。热度取自可见原帖 metrics。昨日 Arena「Kibitz 猜 K3.1」已正式落地为官宣——今天主线改写「API 上手 + 开源权重排期 + 网安削减」。
 
-## 今日优先看
+## 今日必读
 
 1. **Kimi K3.1 Pro 正式发布**（见第 1 条）。中文圈主叙事——从预热视频到 API/Code 可用、11/4 开源权重、Arena WebDev 与 AA Cyber 双榜。形式：上手对照 + 核验清单。状态：可起草；官方 verified。
 
@@ -21,7 +21,7 @@ coverage: partial
 
 3. **Claude MCP Tasks / Elicitations**（见第 3 条）。英文官方源强，中文缺「给 MCP 作者的迁移清单」。形式：教程/清单。状态：可起草；官方 verified。
 
-## 候选话题
+## 更多话题
 
 ### 1. Kimi K3.1 Pro：API 今日可用，权重 11/4
 

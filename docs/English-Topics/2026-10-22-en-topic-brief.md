@@ -13,7 +13,7 @@ coverage: partial
 
 给写英文帖/newsletter 的选题：优先有官方源、互动可核、对工程决策有用。
 
-## 今日优先看
+## 今日必读
 
 1. **Claude Duet × OpenShell 同一天的「责任层」叙事**（见第 1、2 条）。英文圈适合配对稿：产品侧主动 Agent 如何求确认，infra 侧如何硬件隔离。角度：给一张「应用层确认 / 运行时隔离 / 云策略」对照表。
 
@@ -21,7 +21,7 @@ coverage: partial
 
 3. **OpenAI on GCP：采购路径改变编码 Agent 选型**（见第 5 条）。少写「又多一个云」，多写 commit、IAM、配额如何绑死团队选择。
 
-## 候选话题
+## 更多话题
 
 ### 1. Claude Duet：主动 Agent 的产品化预览
 

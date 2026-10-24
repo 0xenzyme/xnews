@@ -52,8 +52,8 @@ Hooks only parse; they do not write report bodies.
 | Category | `type` | Body shape |
 |----------|--------|------------|
 | `Daily/` | `x-news-daily` | `#` title, `##` sections, `###` items with 发生了什么 / 为什么值得关注 / 原帖与互动 / 核验 / 判断 (EN: What happened / Why it matters / Original post & engagement / Verification / Take) |
-| `Chinese-Topics/` | `x-cn-topic-brief` | `## 今日优先看` + `## 候选话题` cards |
-| `English-Topics/` | `x-en-topic-brief` | `## Today's Priority Reads` (zh twin: 今日优先看) + candidate cards |
+| `Chinese-Topics/` | `x-cn-topic-brief` | `## 今日必读` + `## 更多话题` cards |
+| `English-Topics/` | `x-en-topic-brief` | `## Today's must-reads` (zh twin: 今日必读) + More topics cards |
 
 Filenames: `YYYY-MM-DD-<slug>.md` plus a same-stem `.en.md` twin. Verification labels: `verified` / `author-claim` / `unverified`.
 

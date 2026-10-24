@@ -13,7 +13,7 @@ coverage: partial
 
 Editorial picks for Chinese-language writers: actionable, checkable, builder-facing. Engagement from visible post metrics.
 
-## Today's Priority Reads
+## Today's must-reads
 
 1. **Arena anon models Kibitz / Kalmia (rumored Kimi K3.1 / Qwen 4)** (see item 1). Hot, fast, weakly verified — write a fingerprint-verification method piece (tokenizer, codename sequence, SGLang traces vs official). Format: checklist. Status: draftable; must label unverified.
 
@@ -21,7 +21,7 @@ Editorial picks for Chinese-language writers: actionable, checkable, builder-fac
 
 3. **Agent Skills donated to AAIF** (see item 3). Strong EN official source, thin CN depth — explain “second standard after MCP” for Cursor/Copilot/custom agents. Format: standards explainer. Status: draftable; official verified.
 
-## Candidates
+## More topics
 
 ### 1. Arena dark tests: Kibitz ≈ Kimi? Kalmia ≈ Qwen 4?
 

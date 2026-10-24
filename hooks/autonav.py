@@ -104,10 +104,10 @@ def _summary(body, en):
         sect = body[first.end(): first.end() + (nxt.start() if nxt else len(body))]
         for m in re.finditer(r"^(?:-\s+)?" + SUMMARY_LABELS + r"\s*[：:]\s*(.+)$", sect, re.M | re.I):
             text = _tidy(_plain(m.group(1)))
-            text = re.sub(r'^(?:见「今日优先看」第\s*1\s*条[。.]?|see item 1 of "Today\'s Priority Reads\."?)\s*(?:补充一句背景[：:]|One piece of background:)?\s*', "", text, flags=re.I)
+            text = re.sub(r'^(?:见「(?:今日必读|今日优先看)」第\s*1\s*条[。.]?|see item 1 of "(?:Today\'s must-reads|Today\'s Priority Reads)\."?)\s*(?:补充一句背景[：:]|One piece of background:)?\s*', "", text, flags=re.I)
             if text and not re.match(r"^(见|see )", text, re.I):
                 return _clip(text, limit)
-    pri = re.search(r"^##\s+(?:今日优先看|Today's Priority Reads?)\s*$", body, re.M)
+    pri = re.search(r"^##\s+(?:今日必读|今日优先看|Today's must-reads|Today's Priority Reads?)\s*$", body, re.M)
     if pri:
         rest = body[pri.end():]
         end = re.search(r"^(?:2\.\s|##\s)", rest, re.M)

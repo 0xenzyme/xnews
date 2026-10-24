@@ -13,7 +13,7 @@ coverage: partial
 
 Editorial picks for Chinese-language writers: actionable, checkable, builder-facing. Engagement from visible post metrics.
 
-## Today's Priority Reads
+## Today's must-reads
 
 1. **DeepSeek open-sources DeepInfer** (see item 1). Not “another drop” — which serving layers to copy (kernels / distributed / API-aligned recipe). Format: diagram + minimal repro. Status: draftable; official posts verified.
 
@@ -21,7 +21,7 @@ Editorial picks for Chinese-language writers: actionable, checkable, builder-fac
 
 3. **GLM-5.4/5.5 “expert memo” leak** (see item 3). Hot but weak verification — teach how to dissect investor memos. Format: method post. Status: draftable; must label unverified.
 
-## Candidates
+## More topics
 
 ### 1. DeepInfer: opening the production serving layer
 

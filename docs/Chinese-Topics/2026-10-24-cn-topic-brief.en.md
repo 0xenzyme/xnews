@@ -13,7 +13,7 @@ coverage: partial
 
 Editorial picks for Chinese-language writers: actionable, checkable, builder-facing. Engagement from visible post metrics. Yesterday’s Arena “Kibitz ≈ K3.1” rumor is now an official launch — today’s angle is API hands-on + open-weight schedule + cyber data cuts.
 
-## Today's Priority Reads
+## Today's must-reads
 
 1. **Kimi K3.1 Pro ships** (see item 1). Main CN narrative — from teaser video to API/Code live, weights by Nov 4, Arena WebDev + AA Cyber. Format: hands-on comparison + verification checklist. Status: draftable; official verified.
 
@@ -21,7 +21,7 @@ Editorial picks for Chinese-language writers: actionable, checkable, builder-fac
 
 3. **Claude MCP Tasks / Elicitations** (see item 3). Strong EN official source; CN gap is a migration checklist for MCP authors. Format: tutorial/checklist. Status: draftable; official verified.
 
-## Candidates
+## More topics
 
 ### 1. Kimi K3.1 Pro: API today, weights Nov 4
 

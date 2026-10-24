@@ -13,7 +13,7 @@ coverage: partial
 
 Editorial picks for Chinese-language writers: actionable, checkable, builder-facing. Engagement from visible post metrics; diffuse topics marked as “topic-hot, post-quiet.”
 
-## Today's Priority Reads
+## Today's must-reads
 
 1. **Post-trained collaborators: Ampersand on GLM 5.3** (see item 1). CN chatter frames “skip pretrain, specialize via post-train.” Angle: a cost/risk table of new pretrain vs behavior post-train vs harness-only. Format: original post or diagram. Status: draftable; capabilities are author-claim.
 
@@ -21,7 +21,7 @@ Editorial picks for Chinese-language writers: actionable, checkable, builder-fac
 
 3. **Ant Ming-3.0: MIT CN/dialect speech stack** (see item 3). Not “another open drop” — a minimum local voice-agent kit (clone, director tags, Cantonese/Sichuanese). Format: hands-on note. Status: draftable; verify HF/ModelScope cards first.
 
-## Candidates
+## More topics
 
 ### 1. Ampersand × GLM 5.3: post-train specialization narrative
 

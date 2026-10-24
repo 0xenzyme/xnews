@@ -13,7 +13,7 @@ coverage: partial
 
 Picks for EN posts/newsletters: prefer official sources, checkable engagement, useful for engineering decisions.
 
-## Today's Priority Reads
+## Today's must-reads
 
 1. **Kimi K3.1 Pro × AA Cyber / Arena WebDev** (see items 1–2). Open-weight-lineage flagship + third-party boards — write the “callable today / weights Nov 4 / cyber cuts” timeline.
 
@@ -21,7 +21,7 @@ Picks for EN posts/newsletters: prefer official sources, checkable engagement, u
 
 3. **Coding Agent Index v2.0** (see item 5). New-yardstick week — teach cost-frontier reading, not cross-version totals.
 
-## Candidates
+## More topics
 
 ### 1. Kimi K3.1 Pro launch
 

@@ -13,7 +13,7 @@ coverage: partial
 
 给写英文帖/newsletter 的选题：优先有官方源、互动可核、对工程决策有用。
 
-## 今日优先看
+## 今日必读
 
 1. **Kimi K3.1 Pro × AA Cyber / Arena WebDev**（见第 1、2 条）。开源权重路线旗舰 + 第三方双榜——适合写「callable today / weights Nov 4 / cyber cuts」时间线。
 
@@ -21,7 +21,7 @@ coverage: partial
 
 3. **Coding Agent Index v2.0**（见第 5 条）。换尺子周——教读者读成本前沿而非跨版本总分。
 
-## 候选话题
+## 更多话题
 
 ### 1. Kimi K3.1 Pro launch
 

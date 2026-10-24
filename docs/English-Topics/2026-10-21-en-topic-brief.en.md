@@ -13,7 +13,7 @@ coverage: partial
 
 Picks for English posts/newsletters: prefer official sources, checkable engagement, and engineering decisions.
 
-## Today's Priority Reads
+## Today's must-reads
 
 1. **EAGLE-4 landing in the same week as “intelligence saturation”** (see items 1–2). Pair Cognition/The Information cost narrative with Eagle’s tok/s claims. Angle: a decision table — when to chase frontier IQ vs throughput.
 
@@ -21,7 +21,7 @@ Picks for English posts/newsletters: prefer official sources, checkable engageme
 
 3. **Ampersand: how to evaluate long-horizon collaboration** (see item 4). Don’t remix “good model” — ask whether multi-month sims are reproducible and how to test pass/silence behavior on the Agents API.
 
-## Candidates
+## More topics
 
 ### 1. EAGLE-4: speculative decoding under real batches
 
