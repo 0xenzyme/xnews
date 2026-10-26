@@ -36,10 +36,10 @@ CATS = [
     },
     {
         "folder": "Daily",
-        "zh": "X AI 日报",
-        "en": "X AI Daily",
-        "badge_zh": "日报",
-        "badge_en": "Daily",
+        "zh": "AI每日精选",
+        "en": "AI Daily Picks",
+        "badge_zh": "精选",
+        "badge_en": "Picks",
         "desc_zh": "每天一份高信噪比 AI 动态：模型、产品、研究，以及为什么值得关注。",
         "desc_en": "A high-signal daily digest of AI news on X: models, products, research — and why it matters.",
     },
@@ -348,7 +348,7 @@ def _front(config, cats, en):
         out.append('</div>')
     brief = val(r, "brief") or []
     if brief:
-        out.append(f'<div class="fk-lead__brief"><p class="fk-lead__brief-label">{"Also in the daily report" if en else "日报里还有"}</p><ul>')
+        out.append(f'<div class="fk-lead__brief"><p class="fk-lead__brief-label">{"Also in the daily report" if en else "精选里还有"}</p><ul>')
         out.extend(f'<li><a href="{href(cat, r)}">{html.escape(b)}</a></li>' for b in brief)
         out.append('</ul></div>')
     out.append('</div>')

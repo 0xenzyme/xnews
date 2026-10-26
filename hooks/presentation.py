@@ -6,7 +6,7 @@ import re
 SECTIONS = {
     "Chinese-Topics": ("中文热点", "Chinese Topics"),
     "English-Topics": ("英文热点", "English Topics"),
-    "Daily": ("X AI 日报", "X AI Daily"),
+    "Daily": ("AI每日精选", "AI Daily Picks"),
 }
 WEEKDAYS_ZH = ["周一", "周二", "周三", "周四", "周五", "周六", "周日"]
 WEEKDAYS_EN = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
@@ -125,11 +125,11 @@ def on_page_markdown(markdown, page, config, files):
         page.meta["hide"] = list(dict.fromkeys([*page.meta.get("hide", []), "navigation", "toc"]))
         description = (
             "High-signal AI intel from X for builders: daily digest plus Chinese and English topic briefs, with source links."
-            if en else "给动手做东西的人的高信噪比 AI 情报：X 日报、中英文热点简报和原始来源。"
+            if en else "给动手做东西的人的高信噪比 AI 情报：AI每日精选、中英文热点简报和原始来源。"
         )
     else:
         # Report pages get a readable browser/search title such as
-        # "X AI 日报 · 2026-10-20"; the nav labels stay date-only.
+        # "AI每日精选 · 2026-10-20"; the nav labels stay date-only.
         report_title = _display_title(markdown) if is_report else None
         date = _date_parts(page.meta.get("date")) if is_report else None
         if report_title:
@@ -164,7 +164,7 @@ def on_page_markdown(markdown, page, config, files):
         title = "High-signal AI intel from X" if en else "来自 X 的高信噪比 AI 情报"
         subtitle = (
             "A daily digest plus Chinese and English topic briefs for builders. Every item links back to its source."
-            if en else "日报和中英文热点简报，给动手做东西的人；每条都附原始来源。"
+            if en else "AI每日精选和中英文热点简报，给动手做东西的人；每条都附原始来源。"
         )
         side = f'<p class="fk-side__title">{title}</p><p class="fk-side__intro">{subtitle}</p>'
         actions = (
