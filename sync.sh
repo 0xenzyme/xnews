@@ -5,7 +5,7 @@ set -euo pipefail
 SRC=/workspace/News; REPO=/workspace/news-site
 cd "$REPO"
 # Local identity for commits on this box (repo-scoped, not global)
-git config user.name "enzyme_dev"
+git config user.name "0xenzyme"
 git config user.email "enzyme@xnews.0xenzyme.dev"
 git pull -q --rebase origin main
 for c in Daily Chinese-Topics English-Topics; do
