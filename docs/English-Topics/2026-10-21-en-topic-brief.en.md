@@ -1,5 +1,6 @@
 ---
 title: 2026-10-21-X English Topic Brief
+headline: EAGLE-4 × intelligence saturation · Eleven Realtime
 type: x-en-topic-brief
 date: 2026-10-21
 tags: [x-en-topic-brief, ai, agents, inference]
@@ -8,7 +9,6 @@ window: 2026-10-20 00:00 to 2026-10-21 14:00
 generated: 2026-10-21T14:20:00+08:00
 coverage: partial
 ---
-
 # X English Topic Brief (2026-10-21)
 
 Picks for English posts/newsletters: prefer official sources, checkable engagement, and engineering decisions.

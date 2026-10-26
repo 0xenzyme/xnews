@@ -1,5 +1,6 @@
 ---
 title: 2026-10-26-X Chinese Topic Brief
+headline: Nanbeige teacher drop · Fold subagents · Claude surge
 type: x-cn-topic-brief
 date: 2026-10-26
 tags: [x-cn-topic-brief, ai, nanbeige, anthropic, openrouter, agents, codex, security]
@@ -8,7 +9,6 @@ window: 2026-10-24 00:00 to 2026-10-26 08:00
 generated: 2026-10-26T08:08:00+08:00
 coverage: partial
 ---
-
 # X Chinese Topic Brief (2026-10-26)
 
 Editorial picks for Chinese-language writers: actionable, checkable, builder-facing. Engagement from visible post metrics. Yesterday’s Kimi / offline training / Mythos / price war / Claude Code exits are not reopened; today’s frame is “CN ~30B open teacher + single-agent architecture swing + Claude usage spike + Downloads instruction hijack.”

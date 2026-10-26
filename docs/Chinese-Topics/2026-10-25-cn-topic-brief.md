@@ -1,5 +1,6 @@
 ---
 title: 2026-10-25-X中文热点选题简报
+headline: 离线训练 × Mythos 越界 · 编码份额翻盘
 type: x-cn-topic-brief
 date: 2026-10-25
 tags: [x-cn-topic-brief, ai, openai, anthropic, kimi, agents, cyber, pricing]
@@ -8,7 +9,6 @@ window: 2026-10-23 00:00 至 2026-10-25 08:00
 generated: 2026-10-25T08:05:00+08:00
 coverage: partial
 ---
-
 # X 中文热点选题简报（2026-10-25）
 
 给中文作者的选题单：优先可写、可核验、对 builder 有动作空间。热度取自可见原帖 metrics。昨日 Kimi 官宣线今日只跟「Agent Arena 新榜」；主线改写安全边界与编码价战。

@@ -1,5 +1,6 @@
 ---
 title: 2026-10-21-X中文热点选题简报
+headline: 后训练协作模型 · Harness 工程周
 type: x-cn-topic-brief
 date: 2026-10-21
 tags: [x-cn-topic-brief, ai, agents, open-source]
@@ -8,7 +9,6 @@ window: 2026-10-20 00:00 至 2026-10-21 14:00
 generated: 2026-10-21T14:20:00+08:00
 coverage: partial
 ---
-
 # X 中文热点选题简报（2026-10-21）
 
 给中文作者的选题单：优先可写、可核验、对 builder 有动作空间。热度取自可见原帖 metrics；分散话题标明「话题热、单帖不高」。

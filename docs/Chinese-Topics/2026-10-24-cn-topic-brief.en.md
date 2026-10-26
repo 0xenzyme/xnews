@@ -1,5 +1,6 @@
 ---
 title: 2026-10-24-X Chinese Topic Brief
+headline: Kimi K3.1 Pro ships · Cyber cuts before open weights
 type: x-cn-topic-brief
 date: 2026-10-24
 tags: [x-cn-topic-brief, ai, kimi, moonshot, open-source, agents, arena]
@@ -8,7 +9,6 @@ window: 2026-10-22 00:00 to 2026-10-24 08:00
 generated: 2026-10-24T08:10:00+08:00
 coverage: partial
 ---
-
 # X Chinese Topic Brief (2026-10-24)
 
 Editorial picks for Chinese-language writers: actionable, checkable, builder-facing. Engagement from visible post metrics. Yesterday’s Arena “Kibitz ≈ K3.1” rumor is now an official launch — today’s angle is API hands-on + open-weight schedule + cyber data cuts.

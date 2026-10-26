@@ -1,5 +1,6 @@
 ---
 title: 2026-10-21-X英文热点选题简报
+headline: EAGLE-4 × 智力饱和 · Eleven Realtime
 type: x-en-topic-brief
 date: 2026-10-21
 tags: [x-en-topic-brief, ai, agents, inference]
@@ -8,7 +9,6 @@ window: 2026-10-20 00:00 至 2026-10-21 14:00
 generated: 2026-10-21T14:20:00+08:00
 coverage: partial
 ---
-
 # X 英文热点选题简报（2026-10-21）
 
 给写英文帖/newsletter 的选题：优先有官方源、互动可核、对工程决策有用。

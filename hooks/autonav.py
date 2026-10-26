@@ -124,6 +124,38 @@ def _summary(body, en):
     return ""
 
 
+
+def _pick_from_must_reads(body, en):
+    """Build a list title from bold titles under Today's must-reads."""
+    pri = re.search(
+        r"^##\s+(?:今日必读|今日优先看|Today's must-reads|Today's Priority Reads?)\s*$",
+        body,
+        re.M,
+    )
+    if not pri:
+        return ""
+    rest = body[pri.end():]
+    end = re.search(r"^##\s+", rest, re.M)
+    block = rest[: end.start() if end else len(rest)]
+    bolds = []
+    for m in re.finditer(r"\*\*(.+?)\*\*", block):
+        t = m.group(1)
+        t = re.sub(r"[（(](?:见第[^)）]*|see item[^)）]*)[)）]", "", t, flags=re.I)
+        t = _plain(t).strip(" ：:·—-")
+        if t:
+            bolds.append(t)
+    if not bolds:
+        return ""
+    # Prefer 1–2 beats; take a 3rd only when the joined string is still short.
+    take = bolds[:2]
+    joined = " · ".join(take)
+    limit = 64 if en else 36
+    if len(joined) < (limit * 0.55) and len(bolds) >= 3:
+        take = bolds[:3]
+        joined = " · ".join(take)
+    return _clip(joined, limit)
+
+
 def _report(path, en=False):
     meta, body = _read(path)
     h1 = re.search(r"^#\s+(.+?)\s*$", body, re.M)
@@ -151,9 +183,16 @@ def _report(path, en=False):
             headings.append(h)
     limit = 58 if en else 34
     lead = " · ".join(_clip(h, limit) for h in headings[:2]) if headings else ""
-    # 首页卡片：标题用第一条推荐，冒号前的短标题；摘要用其后两条。
+    # List/home card title: prefer frontmatter headline, then must-read
+    # bold beats, then first ### before colon (legacy).
     pick = ""
-    if headings:
+    hl = meta.get("headline")
+    if isinstance(hl, str) and hl.strip():
+        # Explicit headlines get a looser clip than auto-fallback.
+        pick = _clip(_plain(hl.strip()), 80 if en else 48)
+    if not pick:
+        pick = _pick_from_must_reads(body, en)
+    if not pick and headings:
         pick = re.split(r"[：:]\s*", headings[0], maxsplit=1)[0].strip()
         if len(pick) < 4:
             pick = headings[0]

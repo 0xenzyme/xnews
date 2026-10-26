@@ -1,5 +1,6 @@
 ---
 title: 2026-10-26-X英文热点选题简报
+headline: 拆 subagent × Claude 用量暴涨 · Nanbeige 上新
 type: x-en-topic-brief
 date: 2026-10-26
 tags: [x-en-topic-brief, ai, anthropic, agents, nanbeige, openrouter, codex, security]
@@ -8,7 +9,6 @@ window: 2026-10-24 00:00 至 2026-10-26 08:00
 generated: 2026-10-26T08:08:00+08:00
 coverage: partial
 ---
-
 # X 英文热点选题简报（2026-10-26）
 
 给写英文帖/newsletter 的选题：优先有官方源、互动可核、对工程决策有用。昨日离线训练 / Mythos / 价战 / Claude Code 离职 / Kimi Arena 本日不重开。

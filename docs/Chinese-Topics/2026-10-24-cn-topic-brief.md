@@ -1,5 +1,6 @@
 ---
 title: 2026-10-24-X中文热点选题简报
+headline: Kimi K3.1 Pro 发布 · 开源前网安削减
 type: x-cn-topic-brief
 date: 2026-10-24
 tags: [x-cn-topic-brief, ai, kimi, moonshot, open-source, agents, arena]
@@ -8,7 +9,6 @@ window: 2026-10-22 00:00 至 2026-10-24 08:00
 generated: 2026-10-24T08:10:00+08:00
 coverage: partial
 ---
-
 # X 中文热点选题简报（2026-10-24）
 
 给中文作者的选题单：优先可写、可核验、对 builder 有动作空间。热度取自可见原帖 metrics。昨日 Arena「Kibitz 猜 K3.1」已正式落地为官宣——今天主线改写「API 上手 + 开源权重排期 + 网安削减」。

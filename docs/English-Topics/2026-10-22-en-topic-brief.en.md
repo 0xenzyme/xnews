@@ -1,5 +1,6 @@
 ---
 title: 2026-10-22-X English Topic Brief
+headline: Claude Duet × OpenShell · DeepInfer + Flint
 type: x-en-topic-brief
 date: 2026-10-22
 tags: [x-en-topic-brief, ai, agents, inference, local]
@@ -8,7 +9,6 @@ window: 2026-10-20 00:00 to 2026-10-22 08:00
 generated: 2026-10-22T08:10:00+08:00
 coverage: partial
 ---
-
 # X English Topic Brief (2026-10-22)
 
 Picks for English posts/newsletters: prefer official sources, checkable engagement, engineering decisions.

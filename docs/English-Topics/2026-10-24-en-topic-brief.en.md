@@ -1,5 +1,6 @@
 ---
 title: 2026-10-24-X English Topic Brief
+headline: Kimi K3.1 Pro × MCP Tasks · Coding Index
 type: x-en-topic-brief
 date: 2026-10-24
 tags: [x-en-topic-brief, ai, kimi, mcp, agents, coding-index, open-source]
@@ -8,7 +9,6 @@ window: 2026-10-22 00:00 to 2026-10-24 08:00
 generated: 2026-10-24T08:10:00+08:00
 coverage: partial
 ---
-
 # X English Topic Brief (2026-10-24)
 
 Picks for EN posts/newsletters: prefer official sources, checkable engagement, useful for engineering decisions.

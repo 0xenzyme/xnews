@@ -1,5 +1,6 @@
 ---
 title: 2026-10-21-X Chinese Topic Brief
+headline: Post-train collaborators · Harness engineering week
 type: x-cn-topic-brief
 date: 2026-10-21
 tags: [x-cn-topic-brief, ai, agents, open-source]
@@ -8,7 +9,6 @@ window: 2026-10-20 00:00 to 2026-10-21 14:00
 generated: 2026-10-21T14:20:00+08:00
 coverage: partial
 ---
-
 # X Chinese Topic Brief (2026-10-21)
 
 Editorial picks for Chinese-language writers: actionable, checkable, builder-facing. Engagement from visible post metrics; diffuse topics marked as “topic-hot, post-quiet.”

@@ -1,5 +1,6 @@
 ---
 title: 2026-10-22-X Chinese Topic Brief
+headline: DeepSeek DeepInfer · Sage science agent
 type: x-cn-topic-brief
 date: 2026-10-22
 tags: [x-cn-topic-brief, ai, agents, open-source, inference]
@@ -8,7 +9,6 @@ window: 2026-10-20 00:00 to 2026-10-22 08:00
 generated: 2026-10-22T08:10:00+08:00
 coverage: partial
 ---
-
 # X Chinese Topic Brief (2026-10-22)
 
 Editorial picks for Chinese-language writers: actionable, checkable, builder-facing. Engagement from visible post metrics.

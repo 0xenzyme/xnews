@@ -1,5 +1,6 @@
 ---
 title: 2026-10-23-X English Topic Brief
+headline: Agent Skills donation × Auto Mode · Decisions API
 type: x-en-topic-brief
 date: 2026-10-23
 tags: [x-en-topic-brief, ai, agents, standards, decisions, security]
@@ -8,7 +9,6 @@ window: 2026-10-21 00:00 to 2026-10-23 08:00
 generated: 2026-10-23T08:05:00+08:00
 coverage: partial
 ---
-
 # X English Topic Brief (2026-10-23)
 
 Picks for EN posts/newsletters: prefer official sources, checkable engagement, useful for engineering decisions.

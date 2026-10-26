@@ -1,5 +1,6 @@
 ---
 title: 2026-10-23-X Chinese Topic Brief
+headline: Arena anon model checks · Ling-flash score bump
 type: x-cn-topic-brief
 date: 2026-10-23
 tags: [x-cn-topic-brief, ai, agents, open-source, arena, standards]
@@ -8,7 +9,6 @@ window: 2026-10-21 00:00 to 2026-10-23 08:00
 generated: 2026-10-23T08:05:00+08:00
 coverage: partial
 ---
-
 # X Chinese Topic Brief (2026-10-23)
 
 Editorial picks for Chinese-language writers: actionable, checkable, builder-facing. Engagement from visible post metrics.

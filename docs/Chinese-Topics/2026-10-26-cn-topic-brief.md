@@ -1,5 +1,6 @@
 ---
 title: 2026-10-26-X中文热点选题简报
+headline: Nanbeige 开源教师 · 拆 subagent · Claude 用量暴涨
 type: x-cn-topic-brief
 date: 2026-10-26
 tags: [x-cn-topic-brief, ai, nanbeige, anthropic, openrouter, agents, codex, security]
@@ -8,7 +9,6 @@ window: 2026-10-24 00:00 至 2026-10-26 08:00
 generated: 2026-10-26T08:08:00+08:00
 coverage: partial
 ---
-
 # X 中文热点选题简报（2026-10-26）
 
 给中文作者的选题单：优先可写、可核验、对 builder 有动作空间。热度取自可见原帖 metrics。昨日 Kimi / 离线训练 / Mythos / 价战 / Claude Code 离职线本日不重开；主线改写「国产 30B 开源教师 + 单 agent 架构回摆 + Claude 用量暴涨 + Downloads 指令劫持」。

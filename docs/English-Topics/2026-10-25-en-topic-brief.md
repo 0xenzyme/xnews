@@ -1,5 +1,6 @@
 ---
 title: 2026-10-25-X英文热点选题简报
+headline: 离线训练 × Mythos · 编码价格战
 type: x-en-topic-brief
 date: 2026-10-25
 tags: [x-en-topic-brief, ai, openai, anthropic, agents, cyber, codex, pricing]
@@ -8,7 +9,6 @@ window: 2026-10-23 00:00 至 2026-10-25 08:00
 generated: 2026-10-25T08:05:00+08:00
 coverage: partial
 ---
-
 # X 英文热点选题简报（2026-10-25）
 
 给写英文帖/newsletter 的选题：优先有官方源、互动可核、对工程决策有用。

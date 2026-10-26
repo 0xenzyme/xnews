@@ -1,5 +1,6 @@
 ---
 title: 2026-10-26-X English Topic Brief
+headline: Fold subagents · Claude token surge · Nanbeige 33B
 type: x-en-topic-brief
 date: 2026-10-26
 tags: [x-en-topic-brief, ai, anthropic, agents, nanbeige, openrouter, codex, security]
@@ -8,7 +9,6 @@ window: 2026-10-24 00:00 to 2026-10-26 08:00
 generated: 2026-10-26T08:08:00+08:00
 coverage: partial
 ---
-
 # X English Topic Brief (2026-10-26)
 
 Picks for EN posts/newsletters: prefer official sources, checkable engagement, useful for engineering decisions. Yesterday’s offline training / Mythos / price war / Claude Code exits / Kimi Arena are not reopened.

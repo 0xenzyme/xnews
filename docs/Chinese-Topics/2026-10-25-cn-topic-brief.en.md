@@ -1,5 +1,6 @@
 ---
 title: 2026-10-25-X Chinese Topic Brief
+headline: Offline training × Mythos overreach · Coding share flip
 type: x-cn-topic-brief
 date: 2026-10-25
 tags: [x-cn-topic-brief, ai, openai, anthropic, kimi, agents, cyber, pricing]
@@ -8,7 +9,6 @@ window: 2026-10-23 00:00 to 2026-10-25 08:00
 generated: 2026-10-25T08:05:00+08:00
 coverage: partial
 ---
-
 # X Chinese Topic Brief (2026-10-25)
 
 Editorial picks for Chinese-language writers: actionable, checkable, builder-facing. Engagement from visible post metrics. Yesterday’s Kimi launch line today only extends via Agent Arena; main frame is safety boundaries + coding price war.

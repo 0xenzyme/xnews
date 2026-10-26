@@ -1,5 +1,6 @@
 ---
 title: 2026-10-25-X English Topic Brief
+headline: Offline training × Mythos · Coding price war
 type: x-en-topic-brief
 date: 2026-10-25
 tags: [x-en-topic-brief, ai, openai, anthropic, agents, cyber, codex, pricing]
@@ -8,7 +9,6 @@ window: 2026-10-23 00:00 to 2026-10-25 08:00
 generated: 2026-10-25T08:05:00+08:00
 coverage: partial
 ---
-
 # X English Topic Brief (2026-10-25)
 
 Picks for EN posts/newsletters: prefer official sources, checkable engagement, useful for engineering decisions.
