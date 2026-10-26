@@ -483,8 +483,8 @@ def on_config(config):
         cats.append(cat)
 
     latest.sort(key=lambda r: (r["date"], -r["cat"]["order"]), reverse=True)
-    home = ["# 芋米儿 · X AI 新闻\n", _front(config, cats, False) + "\n", "## 最新报告\n", _home(config, latest, 4, False), "\n## 分类\n", _sections(config, cats, False)]
-    home_en = ["# Yumi · X AI News\n", _front(config, cats, True) + "\n", "## Latest reports\n", _home(config, latest, 4, True), "\n## Sections\n", _sections(config, cats, True)]
+    home = ["# 船长 · X AI 新闻\n", _front(config, cats, False) + "\n", "## 最新报告\n", _home(config, latest, 4, False), "\n## 分类\n", _sections(config, cats, False)]
+    home_en = ["# Captain · X AI News\n", _front(config, cats, True) + "\n", "## Latest reports\n", _home(config, latest, 4, True), "\n## Sections\n", _sections(config, cats, True)]
     _write(os.path.join(docs, "index.md"), "\n".join(home) + "\n")
     _write(os.path.join(docs, "index.en.md"), "\n".join(home_en) + "\n")
     config["nav"] = nav

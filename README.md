@@ -1,4 +1,4 @@
-# 芋米儿 · X AI 新闻 / Yumi · X AI News
+# 船长 · X AI 新闻 / Captain · X AI News
 
 MkDocs Material site for high-signal AI intel from X. Daily digest plus Chinese and English topic briefs, aimed at builders.
 
