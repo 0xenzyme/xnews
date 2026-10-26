@@ -6,7 +6,6 @@ theme:
   language: zh
   font: false
   custom_dir: overrides
-  favicon: assets/favicon.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
