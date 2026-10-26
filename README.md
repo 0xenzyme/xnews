@@ -1,4 +1,4 @@
-# 船长 · X AI 新闻 / Captain · X AI News
+# 船长 · AI 新闻 / Captain · AI News
 
 MkDocs Material site for high-signal AI intel from X. Daily digest plus Chinese and English topic briefs, aimed at builders.
 
