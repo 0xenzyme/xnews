@@ -1,25 +1,25 @@
 ---
 title: 2026-10-26-X中文热点选题简报
-headline: Nanbeige 开源教师 · 拆 subagent · Claude 用量暴涨
+headline: Nanbeige 开源 · Apollo 零回报 · CF 审计 skill
 type: x-cn-topic-brief
 date: 2026-10-26
-tags: [x-cn-topic-brief, ai, nanbeige, anthropic, openrouter, agents, codex, security]
-source: x.com
-window: 2026-10-24 00:00 至 2026-10-26 08:00
-generated: 2026-10-26T08:08:00+08:00
+tags: [x-cn-topic-brief, ai, nanbeige, anthropic, openrouter, agents, codex, security, apollo, cloudflare, papers]
+source: x.com + techcrunch / huggingface / github
+window: 2026-10-24 00:00 至 2026-10-26 09:10
+generated: 2026-10-26T09:10:00+08:00
 coverage: partial
 ---
 # X 中文热点选题简报（2026-10-26）
 
-给中文作者的选题单：优先可写、可核验、对 builder 有动作空间。热度取自可见原帖 metrics。昨日 Kimi / 离线训练 / Mythos / 价战 / Claude Code 离职线本日不重开；主线改写「国产 30B 开源教师 + 单 agent 架构回摆 + Claude 用量暴涨 + Downloads 指令劫持」。
+给中文作者的选题单：优先可写、可核验、对 builder 有动作空间。早间 X 主线保留；午间并入非 X 媒体/开源/论文。昨日 Kimi / 离线训练 / Mythos / 价战 / Claude Code 离职线本日不重开。
 
 ## 今日必读
 
 1. **Nanbeige4.3-33B 开源**（见第 1 条）。智联招聘侧实验室补上 ~30B agent 编程教师档。形式：与 Qwen3.8-27B / 本地 24GB 跑通对照表。状态：可起草；官方 verified，榜分为实验室自测。
 
-2. **Anthropic「拆 subagent」× OpenRouter Claude 3.6×**（见第 2、3 条）。架构简化遇上真实烧 token——中文缺「org-chart agent 该不该砍」的硬核读。形式：迁移清单 + 路由用量图解。状态：可起草；指南与 OpenRouter 数据 verified。
+2. **Anthropic「拆 subagent」× OpenRouter Claude 3.6× × Apollo 零回报**（见第 2–4 条）。架构简化 + 平台烧 token + 非科技报表未兑现——中文缺这一组「用量≠ ROI」对照。形式：迁移清单 + 双轴图（OpenRouter vs S&P 493）。状态：可起草；指南 / OpenRouter / TC 报道 verified。
 
-3. **AGENTS.md Downloads 劫持**（见第 5 条）。给国内 Claude Code / Codex 重度用户的安全硬规则。形式：一页 checklist。状态：可起草；Forever Security 为 author-claim，多源转述一致。
+3. **AGENTS.md 劫持 × Cloudflare security-audit-skill**（见第 5–6 条）。威胁与官方审计样板同窗。形式：一页 checklist + skill 安装短教程。状态：可起草；Forever Security 为 author-claim，CF 仓库 verified。
 
 ## 更多话题
 
@@ -44,12 +44,12 @@ coverage: partial
 - 为什么值得做／可写角度：对照「中文开源靠低价霸榜 token」叙事——闭源也能用价质表抢量
 - 时效与核验：verified — OpenRouter 数据帖
 
-### 4. Codex Day 20：又一天 Rest and reset
+### 4. Apollo：S&P 493「零财务回报」
 
-- 原帖与热度：[Day 20](https://x.com/thsottiaux/status/2114200152701575656)｜约 123 万浏览、1.12 万赞；[Dots 招人](https://x.com/thsottiaux/status/2114074885622501706)｜约 187 万浏览
-- 内容与关注点：午夜 PST 前重置；剩余 8 天猜测；Dots 扩到 10 亿用户招人
-- 为什么值得做／可写角度：给重度用户写「额度日历」；别把 reset 写成停更
-- 时效与核验：verified — Tibo
+- 原帖与热度：https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/｜无 X metrics
+- 内容与关注点：去掉七家科技巨头后利润率/人均收入走平；Slok「AI 是计算器、生意是判断」
+- 为什么值得做／可写角度：中文采购/投研帖——「平台用量暴涨」vs「客户报表未动」双图
+- 时效与核验：verified — TC 报道；方法论为经济学家口径
 
 ### 5. Downloads 里的恶意 AGENTS.md
 
@@ -58,9 +58,23 @@ coverage: partial
 - 为什么值得做／可写角度：中文安全短帖——「永远别在下载目录启 agent」+ 配置审计命令
 - 时效与核验：author-claim — Forever Security；待原报告与厂商回应
 
-### 6. 可选：Thorsten Ball《How I work with Agents》
+### 6. Cloudflare security-audit-skill
 
-- 原帖与热度：[thorstenball](https://x.com/thorstenball/status/2114386050638336082)｜约 18.4 万浏览、2366 赞、4933 书签
-- 内容与关注点：Amp 作者实践：前沿模型、结果导向 prompt、全可见日志
-- 为什么值得做／可写角度：翻译/摘录给中文工程团队的「少步骤、多验证」心法
-- 时效与核验：verified — 当事人长文
+- 原帖与热度：https://github.com/cloudflare/security-audit-skill ｜ https://blog.cloudflare.com/build-your-own-vulnerability-harness/｜无 X metrics
+- 内容与关注点：六阶段审计、`confirmed`/`needs_validation`、发现者≠验证者、需 OS 沙箱
+- 为什么值得做／可写角度：中文「如何用 skill 做可验证安全审计」安装+纪律帖；对标 AGENTS.md 威胁
+- 时效与核验：verified — Cloudflare 官方
+
+### 7. Naive RAG 论文 + IQuest-Q1（可选）
+
+- 原帖与热度：https://arxiv.org/abs/2610.30755 ｜ https://arxiv.org/abs/2610.30949｜无 X metrics
+- 内容与关注点：Raw-RAG 六胜七场；320B/15B MoE CLI agent 基础模型开源声明
+- 为什么值得做／可写角度：与「拆 subagent」同写「删 memory 复杂性」；IQuest 等权重落地再深挖
+- 时效与核验：论文页 verified；分数与开源落地为 author-claim
+
+### 8. Codex Day 20 / Thorsten Ball（低优先保留）
+
+- 原帖与热度：[Day 20](https://x.com/thsottiaux/status/2114200152701575656)；[thorstenball](https://x.com/thorstenball/status/2114386050638336082)
+- 内容与关注点：额度重置；Amp 作者实践长文
+- 为什么值得做／可写角度：额度日历 / 工程心法摘录
+- 时效与核验：verified — 当事人
