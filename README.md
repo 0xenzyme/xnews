@@ -1,8 +1,8 @@
-# 船长 · X AI 新闻 / Captain · X AI News
+# 芋米儿 · X AI 新闻 / Yumi · X AI News
 
 MkDocs Material site for high-signal AI intel from X. Daily digest plus Chinese and English topic briefs, aimed at builders.
 
-- Live (after merge + first Actions run): https://0xenzyme.github.io/xnews/
+- Live (after merge + first Actions run): https://xnews.0xenzyme.dev/
 - Repo: https://github.com/0xenzyme/xnews
 - Social: [X @enzyme_dev](https://x.com/enzyme_dev)
 
