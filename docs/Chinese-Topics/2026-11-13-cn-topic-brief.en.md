@@ -1,5 +1,5 @@
 ---
-title: 2026-11-13-X Chinese Topic Brief
+title: 2026-11-13-X Chinese Topics Brief
 headline: Baidu World · Zhang Yiming's 2029 gap · Hydrogen and Inkling weights
 type: x-cn-topic-brief
 date: 2026-11-13
@@ -9,7 +9,7 @@ window: 2026-11-12 00:00 to 2026-11-13 08:00 (Asia/Shanghai)
 generated: 2026-11-13T08:15:00+08:00
 coverage: partial
 ---
-# X Chinese Topic Brief (2026-11-13)
+# X Chinese Topics Brief (2026-11-13)
 
 A beat sheet for writers covering the Chinese AI conversation: yesterday's Baidu World 2026 (a model exchange, ERNIE app models, a Kunlun chip roadmap) and Zhang Yiming reportedly telling staff ByteDance won't catch the frontier before 2029. On the English side, Gemini 4 Hydrogen, Inkling 2 Small weights, self-hosted Claude agents, and Claude Meetings barely spilled into Chinese posts, so there's room for recap-plus-hands-on pieces. Native Chinese posts still have low reach; most are secondhand.
 

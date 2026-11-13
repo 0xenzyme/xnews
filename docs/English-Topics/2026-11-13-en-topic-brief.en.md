@@ -1,5 +1,5 @@
 ---
-title: 2026-11-13-X English Topic Brief
+title: 2026-11-13-X English Topics Brief
 headline: Hydrogen in Cursor · self-hosted Claude agents · Inkling weights · Daybreak, no GPT-6.2
 type: x-en-topic-brief
 date: 2026-11-13
@@ -9,7 +9,7 @@ window: 2026-11-12 00:00 to 2026-11-13 08:00 (Asia/Shanghai)
 generated: 2026-11-13T08:15:00+08:00
 coverage: partial
 ---
-# X English Topic Brief (2026-11-13)
+# X English Topics Brief (2026-11-13)
 
 A beat sheet for the English conversation: yesterday's heaviest items were Gemini 4 Hydrogen (in Cursor on day one), self-hosted Claude Managed Agents, Claude Meetings, and Thinking Machines opening Inkling 2 Small weights. OpenAI's "Cyber at the Frontier" shipped two Daybreak products and an unnamed cyber model; the GPT-6.2 the community expected didn't arrive. Also on the table: Edge0's on-device 100B, World Labs opening Atlas, and ci-proto, a time-series model.
 
