@@ -6,7 +6,7 @@ date: 2026-11-15
 tags: [x-cn-topic-brief, ai, cursor, security, fireworks, llama-cpp, ggml, yasakani, qwen, local-inference, openai, robotics, embodied-ai, vla, nvidia, gr00t-2, blackwell, export-controls]
 source: x.com
 window: 2026-11-14 08:00 至 2026-11-15 08:00，补收 11/13 晚
-generated: 2026-11-15T08:40:00+08:00
+generated: 2026-11-15T08:10:00+08:00
 coverage: partial
 ---
 # X 中文热点选题简报（2026-11-15）

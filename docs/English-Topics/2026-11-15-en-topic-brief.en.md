@@ -6,7 +6,7 @@ date: 2026-11-15
 tags: [x-en-topic-brief, ai, cursor, security, fireworks, openai, robotics, sam-altman, chatgpt-wallet, agent-payments, llama-cpp, deepnote, agent-initiative-benchmark, vision-encoder, mafia-game, google-antigravity, claude-duet, perplexity-decider, artificial-analysis, lawsuit]
 source: x.com
 window: 2026-11-14 08:00 to 2026-11-15 08:00 (Asia/Shanghai), plus late 11/13
-generated: 2026-11-15T08:40:00+08:00
+generated: 2026-11-15T08:10:00+08:00
 coverage: partial
 ---
 # X English Topics Brief (2026-11-15)
